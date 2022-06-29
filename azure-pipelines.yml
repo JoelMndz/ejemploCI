@@ -1,0 +1,8 @@
+pool:
+  name: prueba
+
+steps:
+- script: |
+    npm install
+    npm run start
+  displayName: 'npm install and start'
