@@ -17,5 +17,3 @@ jobs:
           node-version: 14
       - name: Instalar dependencias
         run: npm i
-      - name: Ejecutar
-        run: npm run start
