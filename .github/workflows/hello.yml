@@ -14,6 +14,6 @@ jobs:
           echo "Ejecuntado Accion!"
       - name: Dime la fecha
         run: |
-          Date
+          date
       - run: ls -l
       
